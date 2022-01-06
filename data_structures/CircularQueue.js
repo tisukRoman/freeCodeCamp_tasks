@@ -37,9 +37,3 @@ class CircularQueue {
         }
     }
 }
-
-const queue = new CircularQueue(5);
-
-[null, null, null, null]
-
-queue.print()
